@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;   /* Align items horizontally in center */
+  align-items: center;       /* Align items vertically in center */
+  height: 100vh;             /* Full viewport height */
+  margin: 0;                 /* Remove default margin */
+  background-color: #f0f0f0; /* Optional: Background color for better visibility */
+}

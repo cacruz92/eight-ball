@@ -1,0 +1,7 @@
+.circle {
+    width: 500px;          /* Width of the circle */
+    height: 500px;         /* Height of the circle */
+    background-color: black;  /* Color of the circle */
+    border-radius: 50%;    /* This makes the div a circle */
+    display: inline-block; 
+}
