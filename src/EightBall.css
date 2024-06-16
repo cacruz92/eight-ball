@@ -1,7 +1,55 @@
-.circle {
+.black {
     width: 500px;          /* Width of the circle */
     height: 500px;         /* Height of the circle */
     background-color: black;  /* Color of the circle */
     border-radius: 50%;    /* This makes the div a circle */
-    display: inline-block; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position: relative
+
+}
+
+.green {
+    width: 500px;          /* Width of the circle */
+    height: 500px;         /* Height of the circle */
+    background-color: rgb(0, 178, 0);  /* Color of the circle */
+    border-radius: 50%;    /* This makes the div a circle */
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position: relative
+}
+
+.goldenrod {
+    width: 500px;          /* Width of the circle */
+    height: 500px;         /* Height of the circle */
+    background-color: goldenrod;  /* Color of the circle */
+    border-radius: 50%;    /* This makes the div a circle */
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position: relative
+}
+
+.red {
+    width: 500px;          /* Width of the circle */
+    height: 500px;         /* Height of the circle */
+    background-color: red;  /* Color of the circle */
+    border-radius: 50%;    /* This makes the div a circle */
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position: relative
+}
+
+.prompt {
+    text-align: center;
+    color: white;
+    font-size: 4.5rem;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
 }
